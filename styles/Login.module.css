@@ -1,0 +1,30 @@
+.formContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.from_group{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.input_fild{
+    height: 30px;
+    width: 260px;
+    background: gray;
+    padding: 5px;
+    margin: 5px;
+    color: #fff;
+    border-radius: 5px;
+    border: none;
+}
+
+.btn_primary{
+    height: 30px;
+    width: 250px;
+    background: #3838df;
+    border-radius: 15px;
+    border: none;
+}

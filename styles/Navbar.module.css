@@ -1,0 +1,31 @@
+.Navbarlist{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+    width: 100%;
+    height: 100px;
+    margin-left: 0;
+    box-sizing: 5px solis rgb(7, 7, 7);
+    border-bottom: 1px solid gray;
+   
+    
+  }
+.listContainer{
+  margin-left: 100px;
+    gap: 10px;
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    font-size: 16px;
+    background: transparent;
+    text-decoration: none;
+  }
+.homeLogo{
+  height: 15px;
+  width: 15px;
+}
+
+ /* p{ */
+  /* text-decoration: none; */
+ /* } */

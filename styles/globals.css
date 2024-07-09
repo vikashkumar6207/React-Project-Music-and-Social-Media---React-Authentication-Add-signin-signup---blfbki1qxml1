@@ -105,3 +105,38 @@ a {
     color-scheme: dark;
   }
 }
+
+
+.music_player{
+  width: 100%;
+  background: #e38239;
+  position: fixed;
+  bottom: 0px;
+  left: 0;
+  right: 0;
+  display: flex;
+  gap: 5px;
+  align-items: center;
+  padding: 10px;
+}
+
+.music_player_image{
+  width: 40px;
+  height: 40px;
+  
+
+}
+
+audio{
+  border-radius: 20px;
+  background: #fff;
+  color: #fff;
+}
+.music_title{
+  background: transparent;
+  color: #000;
+  
+}
+.fa-heart{
+  background: transparent;
+}
